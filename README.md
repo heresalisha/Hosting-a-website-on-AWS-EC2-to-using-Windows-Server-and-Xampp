@@ -11,4 +11,4 @@ Prerequisites -
 
 •	 A web project to deploy
 
-
+Steps are mentioned in the document file with proper snapshots
